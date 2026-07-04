@@ -45,13 +45,13 @@ This project performs Exploratory Data Analysis (EDA) on a global layoffs datase
 
 ---
 
-### 🏆 Advanced Analysis
+### Advanced Analysis
 - Ranked companies within each year based on layoffs  
 - Identified top companies with highest layoffs per year  
 
 ---
 
-## 📊 Key Insights
+##  Key Insights
 - Some companies experienced complete workforce shutdowns (100% layoffs)  
 - Certain industries were more affected than others  
 - Layoffs showed clear spikes during specific years  
@@ -67,7 +67,7 @@ Trend identification
 Window functions for ranking and rolling calculations
 Business insight extraction from raw data
 
-## 🎯 Conclusion
+##  Conclusion
 This project demonstrates how SQL can be used to perform real-world data analysis and extract meaningful business insights from raw datasets. It highlights trends in global layoffs across companies, industries, and time periods.
 
 ---
