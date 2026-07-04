@@ -60,12 +60,12 @@ This project performs Exploratory Data Analysis (EDA) on a global layoffs datase
 
 ---
 ## Skills Demonstrated
-Data Exploration using SQL
-Aggregation and grouping techniques
-Time-series analysis
-Trend identification
-Window functions for ranking and rolling calculations
-Business insight extraction from raw data
+-Data Exploration using SQL
+-Aggregation and grouping techniques
+-Time-series analysis
+-Trend identification
+-Window functions for ranking and rolling calculations
+-Business insight extraction from raw data
 
 ##  Conclusion
 This project demonstrates how SQL can be used to perform real-world data analysis and extract meaningful business insights from raw datasets. It highlights trends in global layoffs across companies, industries, and time periods.
