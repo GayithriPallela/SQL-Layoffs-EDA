@@ -1,4 +1,4 @@
-## 📊 SQL EDA Project – Global Layoffs Analysis
+##  SQL EDA Project – Global Layoffs Analysis
 
 ##  Overview
 This project performs Exploratory Data Analysis (EDA) on a global layoffs dataset using SQL. The goal is to uncover patterns and insights related to company layoffs across industries, countries, and time periods.
